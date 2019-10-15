@@ -1,0 +1,36 @@
+body {
+	background-image: url("background.gif");
+	margin-left: 10%;
+	margin-right: 10%;  
+}
+
+#container {
+	background-color: white;
+	border: 10px  white solid;
+}
+#header {
+	border: 5px white solid ;
+}
+.entry {
+	border-color: 4px #C2E9E9 solid;
+	border-radius: 15px;
+		background-color:  #E8FBFB ;
+	padding: 5px; 
+	margin-top: 10px;
+	text-align: justify;
+}
+#header h2 {
+border: 5px orange solid;
+
+}
+.date {
+	border: 5px purple solid
+}
+
+.entry img {
+	float:right;
+}
+
+.spaser {
+	clear:right;
+} 
